@@ -9,7 +9,7 @@ const nextConfig = {
       {
         source: "/",
         destination: "/welcome/ff535484-6880-4653-b06e-89983ecf4ed5",
-        permanent: true,
+        permanent: false,
       },
     ];
   },
